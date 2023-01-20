@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am a third year PhD student at Université de Lorraine and INRIA Grand Est, working at the Institut Elie Cartan de Lorraine in Nancy, under the supervision of Coralie Fritsch and Denis Villemonais. I currently work on multi-sexual multi-type branching processes.
