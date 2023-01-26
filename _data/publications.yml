@@ -1,7 +1,7 @@
 featured:
-- {name: 'Example of Lonely Paper.', url: 'https://arxiv.org/abs/2206.09622', contributors: 'None'}
-- {name: 'The multi-type bisexual Galton-Watson branching proces,', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.'}
+- {name: 'Restristec Maximum of Non-Intersecting Brownian Bridges,', url: '/publications/BrownianBridges.pdf', contributors: 'Yamit Yalanda'}
+- {name: 'The Multi-type Bisexual Galton-Watson Branching Proces,', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.'}
 
 index:
-- {name: 'Example of Lonely Paper.', url: 'https://arxiv.org/abs/2206.09622', contributors: 'None'}
+- {name: 'Restristec Maximum of Non-Intersecting Brownian Bridges,', url: '/publications/BrownianBridges.pdf', contributors: 'Yamit Yalanda'}
 - {name: 'The multi-type bisexual Galton-Watson branching process,', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.'}
