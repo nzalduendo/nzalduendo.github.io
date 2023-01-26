@@ -11,8 +11,12 @@
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a> <em>with {{ item.contributors }}</em></p>
-      {% endfor %}
+        {% if item.contributors == 'None' %}
+          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        {% else %}
+          <p><a href="{{ item.url }}">{{ item.name }}</a> <em>with {{ item.contributors }}</em></p>
+        {% endif %}      
+    {% endfor %}
     {% endif %}
   </div>
 </div>
