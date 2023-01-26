@@ -1,6 +1,6 @@
 featured:
 - {name: 'Example of Lonely Paper.', url: 'https://arxiv.org/abs/2206.09622', contributors: 'None'}
-- {name: 'The multi-type bisexual Galton-Watson branching process.', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.'}
+- {name: 'The multi-type bisexual Galton-Watson branching proces,', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.'}
 
 index:
 - {name: 'The multi-type bisexual Galton-Watson branching process.', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.'}
