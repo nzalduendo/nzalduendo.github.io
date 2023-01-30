@@ -1,5 +1,5 @@
 featured:
-- {name: 'Restricted Maximum of Non-Intersecting Brownian Bridges,', url: '/publications/BrownianBridges.pdf', contributors: 'Yamit Yalanda', abstract: 'Hola po'}
+- {name: 'Restricted Maximum of Non-Intersecting Brownian Bridges,', url: '/publications/BrownianBridges.pdf', contributors: 'Yamit Yalanda', abstract: 'Consider a system of $N$ non-intersecting Brownian bridges in $[0,1]$'}
 - {name: 'The Multi-type Bisexual Galton-Watson Branching Proces,', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.', abstract: 'Hola por 2'}
 
 index:
