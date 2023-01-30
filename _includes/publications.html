@@ -8,6 +8,7 @@
         {% else %}
           <p><a href="{{ item.url }}">{{ item.name }}</a> <em>with {{ item.contributors }}</em></p>
         {% endif %}
+        <p><em> Abstract: {{ item.abstract }}</em></p>
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
