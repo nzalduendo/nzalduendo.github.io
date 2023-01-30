@@ -1,7 +1,7 @@
 featured:
-- {name: 'Restristed Maximum of Non-Intersecting Brownian Bridges,', url: '/publications/BrownianBridges.pdf', contributors: 'Yamit Yalanda'}
+- {name: 'Restricted Maximum of Non-Intersecting Brownian Bridges,', url: '/publications/BrownianBridges.pdf', contributors: 'Yamit Yalanda'}
 - {name: 'The Multi-type Bisexual Galton-Watson Branching Proces,', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.'}
 
 index:
-- {name: 'Restristed Maximum of Non-Intersecting Brownian Bridges,', url: '/publications/BrownianBridges.pdf', contributors: 'Yamit Yalanda'}
+- {name: 'Restricted Maximum of Non-Intersecting Brownian Bridges,', url: '/publications/BrownianBridges.pdf', contributors: 'Yamit Yalanda'}
 - {name: 'The Multi-type Bisexual Galton-Watson Branching Proces,', url: 'https://arxiv.org/abs/2206.09622', contributors: 'Coralie Fritsch and Denis Villemonais.'}
