@@ -21,4 +21,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/IECL.jpg'}
+- {name: 'Nicolás Zalduendo', title: 'PhD Student', department: 'Applied Mathematics', institution: 'Université de Lorraine', institution_address: 'Faculté de Sciences', phone: '(000) 000-0000', email: 'zalduend1 at univ-lorraine.fr', office: '126, IECL Building', image: 'assets/img/IECL.jpg'}
