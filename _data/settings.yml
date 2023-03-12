@@ -13,7 +13,7 @@ talks:
 - {name: 'Mathematical Models on Ecology and Evolution, Reading, UK. July 2022.', slides: '/Talks/Reading_22.pdf'}
 - {name: 'Journées de Probabilités, Orbey, France. June 2022.', slides: 'None'}
 - {name: 'École de la Chaire MMB. Aussois, France. June 2021.', url: '/Talks/Aussois_2021.pdf'}
-- {name: 'Etheridge Group Seminar. Oxford University, UK. May 2021.', url: '/Talks/oxford_2021.pdf'}
+- {name: 'Etheridge Group Seminar. Oxford University, UK. May 2021.', url: '/Talks/Oxford_2021.pdf'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/NicoZalduendo'}
