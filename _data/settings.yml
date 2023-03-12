@@ -10,10 +10,10 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 talks:
-- {name: 'Mathematical Models on Ecology and Evolution, Reading, UK. July 2022.', slides: 'Talks/Reading_2022.pdf'}
+- {name: 'Mathematical Models on Ecology and Evolution, Reading, UK. July 2022.', slides: '/Talks/Reading_22.pdf'}
 - {name: 'Journées de Probabilités, Orbey, France. June 2022.', slides: 'None'}
-- {name: 'École de la Chaire MMB. Aussois, France. June 2021.', url: 'None'}
-- {name: 'Etheridge Group Seminar. Oxford University, UK. May 2021.', url: 'None'}
+- {name: 'École de la Chaire MMB. Aussois, France. June 2021.', url: '/Talks/Aussois_2021.pdf'}
+- {name: 'Etheridge Group Seminar. Oxford University, UK. May 2021.', url: '/Talks/oxford_2021.pdf'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/NicoZalduendo'}
