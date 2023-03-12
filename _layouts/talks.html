@@ -12,6 +12,7 @@ layout: default
       <p>{{ talk.name }}</p>
      {% else %}
     <p>{{ talk.name }}. <a href='{{ talk.slides }}'>Slides.</a></p>
+    {% endif %}
     {% endfor %}
   </div>
 </div>
