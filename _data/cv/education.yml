@@ -1,8 +1,14 @@
 - title: 'Ph.D. Applied Mathematics'
-  description: 'Université de Lorraine (2020 - Today)'
+  description: 'Université de Lorraine, Nancy, France. (October 2020 - Today)'
 
-- title: 'Master 2: Mathématiques de l`Aléatoire'
-  description: 'Université Paris-Saclay (2019 - 2020)'
+- title: 'Master M2: Mathématiques de l`Aléatoire'
+  description: 'Université Paris-Saclay, Orsay, France. (September 2019 - September 2020)'
   
-- title: 'Mathematical Engineering and Master in Applied Mathematics'
-  description: 'Universidad de Chile (2012 - 2019)'
+- title: 'Master of Engineering Sciences in Applied Mathematics'
+  description: 'Universidad de Chile, Santiago, Chile (March 2018 - January 2019)'
+  
+  -title: 'Mathematical Engineering'
+   description: 'Universidad de Chile, Santiago, Chile (Marhc 2012 - December 2017)'
+   
+  -title: 'Bachelor of Engineering Sciences, mention Mathematics'
+   description: 'Universidad de Chile, Santiago, Chile (March 2012 - December 2015)'
