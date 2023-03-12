@@ -8,7 +8,7 @@ layout: default
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Recent Talks</h3>
     {% for talk in site.data.settings.talks %}
-     {% if talk.slides == 'None" %}
+     {% if talk.slides == 'None' %}
       <p>{{ talk.name }}</p>
      {% else %}
     <p>{{ talk.name }}. <a href='{{ talk.slides }}'>Slides.</a></p>
