@@ -11,7 +11,7 @@ layout: default
      {% if talk.slides == 'None" %}
       <p>{{ talk.name }}</p>
      {% else %}
-    <p>{{ talk.name }}. <a href='{{ item.slides }}'>Slides.</a></p>
+    <p>{{ talk.name }}. <a href='{{ talk.slides }}'>Slides.</a></p>
     {% endfor %}
   </div>
 </div>
