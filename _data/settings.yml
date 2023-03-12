@@ -16,10 +16,9 @@ talks:
 - {name: 'Etheridge Group Seminar. Oxford University, UK. May 2021.', url: 'None'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'twitter', link: 'https://twitter.com/NicoZalduendo'}
+- {icon: 'instagram', link: 'https://instagram.com/nico.zalduendo'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/nicolás-zalduendo-vidal-007093133/'}
 
 contacts:
 - {name: 'Nicolás Zalduendo', title: 'PhD Student', department: 'Applied Mathematics', institution: 'Université de Lorraine', institution_address: 'Faculté de Sciences', phone: '(000) 000-0000', email: 'zalduend1 at univ-lorraine.fr', office: '126, IECL Building', image: 'assets/img/IECL.jpg'}
