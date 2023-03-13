@@ -21,4 +21,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/nicolás-zalduendo-vidal-007093133/'}
 
 contacts:
-- {name: 'Nicolás Zalduendo', title: 'PhD Student', department: 'Applied Mathematics', institution: 'Université de Lorraine', institution_address: 'Institut Elie Cartan de Lorraine (IECL)<br>Université de Lorraine<br>Faculté des Sciences et Technologies<br>Campus Aiguillettes B.P. 70239<br>F-54506 Vandœuvre-lès-Nancy Cedex<br>France', phone: '(000) 000-0000', email: 'zalduend1 at univ-lorraine.fr', office: '126, IECL Building', image: 'assets/img/IECL.jpg'}
+- {name: 'Nicolás Zalduendo', title: 'PhD Student', department: 'Applied Mathematics', institution: 'Université de Lorraine', institution_address: 'Institut Elie Cartan de Lorraine (IECL)<br>Université de Lorraine<br>Faculté des Sciences et Technologies<br>Campus Aiguillettes B.P. 70239<br>F-54506 Vandœuvre-lès-Nancy Cedex<br>France', phone: '(000) 000-0000', email: 'zalduend1@univ-lorraine.fr', office: '126', image: 'assets/img/IECL.jpg'}
