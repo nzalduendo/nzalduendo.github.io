@@ -11,7 +11,7 @@
         <p align="justify">Abstract: <em>{{ item.abstract }}</em></p>
       {% endfor %}
     {% else %}
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Journal Publications</h3>
       {% for item in site.data.publications.index %}
         {% if item.contributors == 'None' %}
           <p><a href="{{ item.url }}">{{ item.name }}</a></p>
