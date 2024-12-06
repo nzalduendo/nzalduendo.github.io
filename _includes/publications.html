@@ -12,7 +12,7 @@
       {% endfor %}
     {% else %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Journal Publications</h3>
-      {% for item in site.data.publications.index %}
+      {% for item in site.data.publications.journal %}
         {% if item.contributors == 'None' %}
           <p><a href="{{ item.url }}">{{ item.name }}</a></p>
         {% else %}
