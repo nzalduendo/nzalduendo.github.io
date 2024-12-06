@@ -24,8 +24,8 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Preprints</h3>
       {%for item in site.data.publications.preprint %}
         {% if item.contributors == 'None' %}
-          <p>{{ item.number }}<a href="{{ item.url }}">{{ item.name }}</a></p>
-          <p><b>N. Zalduendo</b></p>
+          <p>{{ item.number }}<b>{{ item.name }}</b></p>
+          <p><b><font color="#595959">N. Zalduendo.</font></b><a href="{{ item.url }}">PDF</a></p>
         {% else %}
           <p>{{ item.number }}<b>{{ item.name }}</b></p>
           <p>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo.</font></b> <a href="{{ item.url }}">PDF</a></p>
