@@ -18,7 +18,7 @@
           <p><b>N. Zalduendo</b></p>
         {% else %}
           <p>{{ item.number }}<b>{{ item.name }}</b> ({{ item.year }}).</p>
-          <p>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo</font></b>, in <em>{{ item.journal }}</em>. <font color="#0066ff">PDF</font></p>
+          <p>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo</font></b>, in <em>{{ item.journal }}</em>. <a href="{{ item.url }}"><font color="#0066ff">PDF</font></a></p>
         {% endif %}      
     {% endfor %}
     <br>
