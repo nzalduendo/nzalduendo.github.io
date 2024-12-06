@@ -20,6 +20,7 @@
           <p><a href="{{ item.url }}">{{ item.name }}</a> <em>with {{ item.contributors }}</em></p>
         {% endif %}      
     {% endfor %}
+    <br>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Preprints</h3>
       {%for item in site.data.publications.preprint %}
         {% if item.contributors == 'None' %}
