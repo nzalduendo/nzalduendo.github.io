@@ -21,6 +21,15 @@
         {% endif %}      
     {% endfor %}
     <h3 class="fw-bold border-bottom pb-3 mb-5">Preprints</h3>
+      {%for item in site.data.publications.preprint %}
+        {% if item.contributors == 'None' %}
+          <p>{{ item.number }}<a href="{{ item.url }}">{{ item.name }}</p>
+          <p><b>N. Zalduendo</b></p>
+        {% else %}
+          <p>{{ item.number }}<a href="{{ item.url }}">{{ item.name }}</p>
+          <p>{{ item.contributors }} and <b>N. Zalduendo</b></p>
+        {% endif %}
+      {% endfor %}
     {% endif %}
   </div>
 </div>
