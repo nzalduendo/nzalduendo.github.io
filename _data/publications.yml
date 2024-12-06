@@ -8,4 +8,4 @@ journal:
 - {name: 'Restricted maximum of non-intersecting Brownian bridges,', url: 'https://arxiv.org/abs/2302.11432', contributors: 'Yamit Yalanda'}
 
 preprint:
-- {number: '[1]', name: 'Quasi-limiting behaviour of the sub-critical multitype bisexual Galton-Watson branching process,', url: 'https://arxiv.org/abs/2406.19559', contributors: 'C. Fritsch, D. Villemonais'}
+- {number: '[1] ', name: 'Quasi-limiting behaviour of the sub-critical multitype bisexual Galton-Watson branching process,', url: 'https://arxiv.org/abs/2406.19559', contributors: 'C. Fritsch, D. Villemonais'}
