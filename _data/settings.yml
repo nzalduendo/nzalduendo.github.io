@@ -26,4 +26,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/nicolás-zalduendo-vidal-007093133/'}
 
 contacts:
-- {name: 'Nicolás Zalduendo', title: 'Postdoctoral Researcher', department: 'Applied Mathematics', institution: 'INRAE Occitanie-Montpellier', institution_address: 'INRAE Occitanie-Montpellier (IECL)<br>UMR Mistea<br>2 Place Pierre Viala<br>Bâtiment 21<br>34060 Montpellier cedex 1<br>France', phone: '(000) 000-0000', email: 'nicolas.zalduendo-vidal@inrae.fr', office: '307', image: 'assets/img/Château-La-Gaillarde.jpg'}
+- {name: 'Nicolás Zalduendo', title: 'Postdoctoral Researcher', department: 'Applied Mathematics', institution: 'INRAE Occitanie-Montpellier', institution_address: 'INRAE Occitanie-Montpellier<br>UMR Mistea<br>2 Place Pierre Viala<br>Bâtiment 21<br>34060 Montpellier cedex 1<br>France', phone: '(000) 000-0000', email: 'nicolas.zalduendo-vidal@inrae.fr', office: '307', image: 'assets/img/Château-La-Gaillarde.jpg'}
