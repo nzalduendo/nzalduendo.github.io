@@ -25,10 +25,10 @@
       {%for item in site.data.publications.preprint %}
         {% if item.contributors == 'None' %}
           <p>{{ item.number }}<b>{{ item.name }}</b></p>
-          <p><b><font color="#595959">N. Zalduendo.</font></b><a href="{{ item.url }}">PDF</a></p>
+          <p><b><font color="#595959">N. Zalduendo.</font></b> <font color="#0066ff"><a href="{{ item.url }}">PDF</a></font></p>
         {% else %}
           <p>{{ item.number }}<b>{{ item.name }}</b></p>
-          <p>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo.</font></b> <font color="0066ff"><a href="{{ item.url }}">PDF</a></font></p>
+          <p>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo.</font></b> <font color="#0066ff"><a href="{{ item.url }}">PDF</a></font></p>
         {% endif %}
       {% endfor %}
     {% endif %}
