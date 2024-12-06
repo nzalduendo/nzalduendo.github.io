@@ -26,8 +26,8 @@
           <p>{{ item.number }}<a href="{{ item.url }}">{{ item.name }}</a></p>
           <p><b>N. Zalduendo</b></p>
         {% else %}
-          <p>{{ item.number }}<a href="{{ item.url }}">{{ item.name }}</a></p>
-          <p>{{ item.contributors }} and <b><font color="#808080">N. Zalduendo.</font></b> <a href="{{ item.url }}">PDF</a></p>
+          <p>{{ item.number }}<b>{{ item.name }}</b></p>
+          <p>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo.</font></b> <a href="{{ item.url }}">PDF</a></p>
         {% endif %}
       {% endfor %}
     {% endif %}
