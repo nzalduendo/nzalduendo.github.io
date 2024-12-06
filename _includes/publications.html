@@ -15,6 +15,7 @@
       {% for item in site.data.publications.journal %}
         {% if item.contributors == 'None' %}
           <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+          <p><b>N. Zalduendo</b></p>
         {% else %}
           <p><a href="{{ item.url }}">{{ item.name }}</a> <em>with {{ item.contributors }}</em></p>
         {% endif %}      
