@@ -14,8 +14,7 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Journal Publications</h3>
       {% for item in site.data.publications.journal %}
         {% if item.contributors == 'None' %}
-          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-          <p><b>N. Zalduendo</b></p>
+          <p><b>{{ item.number }} {{ item.name }}</b> ({{ item.year }}).<br><b><font color="#595959">N. Zalduendo</font></b>, <em>in {{ item.journal }}</em>. <a href="{{ item.url }}"><font color="#0066ff">PDF</font></a></p>
         {% else %}
           <p><b>{{ item.number }} {{ item.name }}</b> ({{ item.year }}).<br>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo</font></b>, <em>in {{ item.journal }}</em>. <a href="{{ item.url }}"><font color="#0066ff">PDF</font></a></p>
         {% endif %}      
@@ -24,8 +23,7 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Preprints</h3>
       {%for item in site.data.publications.preprint %}
         {% if item.contributors == 'None' %}
-          <p><b>{{ item.number }}{{ item.name }}</b></p>
-          <p><b><font color="#595959">N. Zalduendo.</font></b> <font color="#0066ff"><a href="{{ item.url }}">PDF</a></font></p>
+          <p><b>{{ item.number }}{{ item.name }}</b><br><b><font color="#595959">N. Zalduendo.</font></b> <font color="#0066ff"><a href="{{ item.url }}">PDF</a></font></p>
         {% else %}
           <p><b>{{ item.number }} {{ item.name }}.</b><br>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo.</font></b> <a href="{{ item.url }}"><font color="#0066ff">PDF</font></a></p>
         {% endif %}
