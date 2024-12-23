@@ -8,4 +8,5 @@ journal:
 - {number: '[1]',name: 'Restricted maximum of non-intersecting Brownian bridges', year: '2024', journal: 'ESAIM: PS 28, 258–273', url: 'https://arxiv.org/abs/2302.11432', contributors: 'Y. Yalanda'}
 
 preprint:
+- {number: '[2]', name: 'Central limit theorem for branching processes under mild assumptions on the mean semigroup', url: 'https://drive.google.com/file/d/1fg3k8TvwPoDtLiAoMmMn04vp4Ta0iImz/view?usp=drive_link', contributors: 'B. Cloez'}
 - {number: '[1]', name: 'Quasi-limiting behaviour of the sub-critical multitype bisexual Galton-Watson branching process', url: 'https://arxiv.org/abs/2406.19559', contributors: 'C. Fritsch, D. Villemonais'}
