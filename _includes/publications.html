@@ -14,9 +14,9 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Journal Publications</h3>
       {% for item in site.data.publications.journal %}
         {% if item.contributors == 'None' %}
-          <p><b>{{ item.number }} {{ item.name }}</b> ({{ item.year }}).<br><b><font color="#595959">N. Zalduendo</font></b>, <em>in {{ item.journal }}</em>. <a href="{{ item.url }}"><font color="#0066ff">Journal</font></a>. <a href="{{ item.arxiv }}"><font color="#0066ff">Arxiv</font></a></p>
+          <p><b>{{ item.number }} {{ item.name }}</b> ({{ item.year }}).<br><b><font color="#595959">N. Zalduendo</font></b>, <em>in {{ item.journal }}</em>. <a href="{{ item.url }}"><font color="#0066ff">Journal.</font></a> <a href="{{ item.arxiv }}"><font color="#0066ff">Arxiv</font></a></p>
         {% else %}
-          <p><b>{{ item.number }} {{ item.name }}</b> ({{ item.year }}).<br>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo</font></b>, <em>in {{ item.journal }}</em>. <a href="{{ item.url }}"><font color="#0066ff">PDF</font></a></p>
+          <p><b>{{ item.number }} {{ item.name }}</b> ({{ item.year }}).<br>{{ item.contributors }} and <b><font color="#595959">N. Zalduendo</font></b>, <em>in {{ item.journal }}</em>. <a href="{{ item.url }}"><font color="#0066ff">Journal.</font></a> <a href="{{ item.arxiv }}"><font color="#0066ff">Arxiv</font></a></p>
         {% endif %}      
     {% endfor %}
     <br>
