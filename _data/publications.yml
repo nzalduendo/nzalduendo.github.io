@@ -9,5 +9,6 @@ journal:
 - {number: '[1]',name: 'Restricted maximum of non-intersecting Brownian bridges', year: '2024', journal: 'ESAIM: PS 28, 258–273', url: 'https://www.esaim-ps.org/articles/ps/abs/2024/01/ps230058/ps230058.html', arxiv: 'https://arxiv.org/pdf/2302.11432', contributors: 'Y. Yalanda'}
 
 preprint:
+- {number: '[3]', name: 'Convergence of weighted branching processes', url: 'https://arxiv.org/pdf/2512.07653', contributors: 'D. Villemonais'}
 - {number: '[2]', name: 'On ecological models with sublinear growth', url: 'https://inria.hal.science/hal-05156816v1/document', contributors: 'N. Champagnat, P. Marquet, C. Quiñinao, R. Rebolledo, M. Tejo, L. Videla'}
 - {number: '[1]', name: 'Central limit theorems for branching processes under mild assumptions on the mean semigroup', url: 'https://arxiv.org/pdf/2501.18430', contributors: 'B. Cloez'}
