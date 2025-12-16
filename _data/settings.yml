@@ -25,4 +25,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/nicolás-zalduendo-vidal-007093133/'}
 
 contacts:
-- {name: 'Nicolás Zalduendo', title: 'Postdoctoral Researcher', department: 'Applied Mathematics', institution: 'Center for Mathematical Modeling', institution_address: 'Center for Mathematical Modeling<br>Beauchef 851<br>Edificio Norte<br>Santiago, Chile', phone: '(000) 000-0000', email: 'nzalduendo@dim.uchile.cl', office: '705', image: 'assets/img/beauchef_851.jpeg'}
+- {name: 'Nicolás Zalduendo', title: 'Assistant Professor', department: 'Applied Mathematics', institution: 'Department of Mathematics and Computer Science', institution_address: 'Department of Mathematics and Computer Science<br>University of Santiago<br>Las Sophoras 173<br>Santiago, Chile', phone: '(000) 000-0000', email: 'nzalduendo -at- gmail.com', office: '526', image: 'assets/img/beauchef_851.jpeg'}
